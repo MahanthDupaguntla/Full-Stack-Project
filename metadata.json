@@ -1,0 +1,7 @@
+{
+  "name": "ArtForge",
+  "description": "The Premier Institutional Digital Art Sanctuary for Rare Sovereign Assets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
